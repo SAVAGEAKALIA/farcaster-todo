@@ -2,9 +2,9 @@
   "frame": {
     "version": "1",
     "name": "Todo List",
-    "iconUrl": "https://your-domain.com/icon.png",
-    "homeUrl": "https://your-domain.com",
-    "splashImageUrl": "https://your-domain.com/splash.png",
+    "iconUrl": "https://farcaster-todo.vercel.app/logo.png",
+    "homeUrl": "https://farcaster-todo.vercel.app/",
+    "splashImageUrl": "https://farcaster-todo.vercel.app/logo.png",
     "splashBackgroundColor": "#8B5CF6",
     "subtitle": "Stay organized & productive",
     "description": "A beautiful, intuitive todo list app to help you stay organized and track your daily tasks.",
